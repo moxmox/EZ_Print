@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ez_print_n_repeat", "ez_print_n_repeat\ez_print_n_repeat.csproj", "{7289454F-27A2-4C0C-B9CA-EE04911B1178}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{82E02855-53F5-4C18-9CC8-436F5B31FD6D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Printer-with-white-sheets\OGMORK0.jpg = ..\..\..\Downloads\Printer-with-white-sheets\OGMORK0.jpg
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ez_print_installer", "ez_print_installer\ez_print_installer.vdproj", "{911DFFB8-4A78-4667-8C58-8E7275F67FD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7289454F-27A2-4C0C-B9CA-EE04911B1178}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{7289454F-27A2-4C0C-B9CA-EE04911B1178}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{7289454F-27A2-4C0C-B9CA-EE04911B1178}.Debug|x64.ActiveCfg = Release|x64
+		{7289454F-27A2-4C0C-B9CA-EE04911B1178}.Debug|x64.Build.0 = Release|x64
+		{7289454F-27A2-4C0C-B9CA-EE04911B1178}.Debug|x86.ActiveCfg = Debug|x86
+		{7289454F-27A2-4C0C-B9CA-EE04911B1178}.Debug|x86.Build.0 = Debug|x86
+		{7289454F-27A2-4C0C-B9CA-EE04911B1178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7289454F-27A2-4C0C-B9CA-EE04911B1178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7289454F-27A2-4C0C-B9CA-EE04911B1178}.Release|x64.ActiveCfg = Release|x64
+		{7289454F-27A2-4C0C-B9CA-EE04911B1178}.Release|x64.Build.0 = Release|x64
+		{7289454F-27A2-4C0C-B9CA-EE04911B1178}.Release|x86.ActiveCfg = Release|x86
+		{7289454F-27A2-4C0C-B9CA-EE04911B1178}.Release|x86.Build.0 = Release|x86
+		{911DFFB8-4A78-4667-8C58-8E7275F67FD7}.Debug|Any CPU.ActiveCfg = Debug
+		{911DFFB8-4A78-4667-8C58-8E7275F67FD7}.Debug|x64.ActiveCfg = Debug
+		{911DFFB8-4A78-4667-8C58-8E7275F67FD7}.Debug|x86.ActiveCfg = Debug
+		{911DFFB8-4A78-4667-8C58-8E7275F67FD7}.Release|Any CPU.ActiveCfg = Release
+		{911DFFB8-4A78-4667-8C58-8E7275F67FD7}.Release|x64.ActiveCfg = Release
+		{911DFFB8-4A78-4667-8C58-8E7275F67FD7}.Release|x86.ActiveCfg = Release
+		{911DFFB8-4A78-4667-8C58-8E7275F67FD7}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A549867-8C6E-4FBB-BCC2-1D8936D1CF0C}
+	EndGlobalSection
+EndGlobal
