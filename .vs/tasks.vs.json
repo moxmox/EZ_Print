@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-ez_print_n_repeat",
+      "appliesTo": "ez_print_n_repeat/",
+      "type": "launch"
+    }
+  ]
+}
